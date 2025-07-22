@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+nltk
+spacy
+transformers
+sentence-transformers
+bs4
